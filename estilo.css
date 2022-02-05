@@ -28,7 +28,8 @@ h1.titulo {
 
 
 #encabezado{
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 #favicon{
@@ -42,6 +43,5 @@ footer{
 }
 
 .encabezados{
-    width: 30%;
     margin-top: 70px;
 }
