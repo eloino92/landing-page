@@ -1,0 +1,24 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "La famosa escritora Anne Baileys prepara el próximo lanzamiento de su libro. Para ello invertirá una buena suma de dinero en publicidad. Para esta campaña necesita un desarrollador que genere la Landing Page y conseguir una buena cantidad de suscriptores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eloino92/landing-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eloino92/landing-page/issues"
+  },
+  "homepage": "https://github.com/eloino92/landing-page#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.2",
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}
